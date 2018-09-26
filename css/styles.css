@@ -1,4 +1,8 @@
 /*for title*/
 title {
-    
+    color: blue;
+}
+
+body {
+    background-image: url('nature.jpg');
 }
