@@ -5,6 +5,10 @@ title {
 #header {
     font-family: cursive;
     font-size: 25px;
+    color: aqua;
+    border-style: double;
+    border-width: 5px;
+    border-color: beige;
 }
 h1 {
     font-size: 150px;
