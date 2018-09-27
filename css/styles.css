@@ -2,9 +2,11 @@
 title {
     color: blue;
 }
-
+header {
+    font-family: fantasy;
+}
 h1 {
-    font-size: 1900px;
+    font-size: 150px;
     color: antiquewhite;
 }
 
