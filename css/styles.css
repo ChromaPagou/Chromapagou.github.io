@@ -11,5 +11,6 @@ h1 {
 }
 
 body {
-    background-image: url("img/nature.jpg"); 
+    background-image: url("img/nature.jpg");
+    background-size: fill; 
 }
