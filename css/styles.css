@@ -9,9 +9,10 @@ title {
     border-style: double;
     border-width: 5px;
     border-color: beige;
+    text-align: center;
 }
 h1 {
-    font-size: 150px;
+    font-size: 50px;
     color: antiquewhite;
 }
 
