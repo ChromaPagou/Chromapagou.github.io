@@ -3,7 +3,8 @@ title {
     color: blue;
 }
 header {
-    font-family: fantasy;
+    font-family: cursive;
+    font-size: 25px;
 }
 h1 {
     font-size: 150px;
@@ -11,6 +12,6 @@ h1 {
 }
 
 body {
-    background-image: url(".../img/nature.jpg");
+    background-image: url("img/nature.jpg");
     background-size: cover; 
 }
