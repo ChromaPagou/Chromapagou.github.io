@@ -23,9 +23,24 @@ p{
 h1 {
     font-size: 50px;
     color: antiquewhite;
+    text-align: center;
 }
 
 body {
     background-image: url("../images/nature.jpg");
     background-size: cover, no-repeat; 
+}
+h2{
+    text-align: center;
+
+}
+
+a.button{
+    border: dotted 5px #141;
+    background-color: aqua;
+}
+/*Home styles*/
+ul.nav{
+    color: blanchedalmond;
+    list-style: none;
 }
