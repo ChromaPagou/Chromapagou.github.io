@@ -5,20 +5,19 @@ title {
 #header {
     font-family: cursive;
     font-size: 25px;
-    color: aqua;
-    border-style: double;
-    border-width: 5px;
-    border-color: beige;
+    color: #7B0E8C;
     text-align: left;
-    padding-left: 250px;
-    margin: 45px;
+    margin-left: 245px;
+    margin-right: 15px;
+    margin-top: 150px;
 }
 #menu{
     font-size: 25px;
 }
 p{
     text-align: right;
-    padding-right: 250px;
+    padding-right: 235px;
+    color: crimson;
 }
 h1 {
     font-size: 50px;
@@ -32,12 +31,13 @@ body {
 }
 h2{
     text-align: center;
-
+    padding-top: 1.5in;
+    font-size: 43px;
+    color: beige;
 }
 
 a.button{
-    border: dotted 5px #141;
-    background-color: aqua;
+    text-decoration: none; 
 }
 /*Home styles*/
 ul.nav{
