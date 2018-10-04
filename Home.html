@@ -2,9 +2,19 @@
 <html>
         <link href="css/styles.css" type="text/css" rel="stylesheet"/>
   <header>      
-    <ul class="nav">
-        <li>Event</li>
-        <li>Forum</li>
-    </ul>
+    <body>
+      <div class="container" onclick="myFunction(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </div>
+      
+    <script>
+      function myFunction(x) {
+          x.classList.toggle("change");
+      }
+    </script>
+      
+      </body>
   </header>
 </html>
